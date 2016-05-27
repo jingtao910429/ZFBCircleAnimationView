@@ -8,6 +8,7 @@
 //参考demo
 //https://github.com/ChenZhangQuan/ZQCircleAnimationView
 //http://code4app.com/ios/弧形加载动画-仿芝麻信用/5676028c594b90784b8b49dc
+//https://github.com/FujunLiu/GaugeAndPentagonTest
 #import "LXCircleAnimationView.h"
 #import "UIColor+Extensions.h"
 #import "UIView+Extensions.h"
