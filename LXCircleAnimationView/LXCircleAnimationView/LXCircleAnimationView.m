@@ -5,7 +5,9 @@
 //  Created by Leexin on 15/12/18.
 //  Copyright © 2015年 Garden.Lee. All rights reserved.
 //
-
+//参考demo
+//https://github.com/ChenZhangQuan/ZQCircleAnimationView
+//http://code4app.com/ios/弧形加载动画-仿芝麻信用/5676028c594b90784b8b49dc
 #import "LXCircleAnimationView.h"
 #import "UIColor+Extensions.h"
 #import "UIView+Extensions.h"
